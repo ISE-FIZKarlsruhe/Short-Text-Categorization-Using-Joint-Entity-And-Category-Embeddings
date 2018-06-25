@@ -1,1 +1,1 @@
-# The-Less-Is-More-for-Text-Categorization
+# Short Text Categorization Using Joint Entity And Category Embeddings

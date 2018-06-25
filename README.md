@@ -1,1 +1,1 @@
-# Short Text Categorization Using Joint Entity And Category Embeddings
+# This is the extendend version of the paper which is currently reviewed under CIKM 2018

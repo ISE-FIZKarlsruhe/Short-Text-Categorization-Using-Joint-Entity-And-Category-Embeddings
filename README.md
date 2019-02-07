@@ -1,2 +1,2 @@
 # Submission-under-review
-This is our (unpublished) paper containing the detailed description of our dataless classification method referenced in the "The Less Is More for Text Classification" paper submission to SEMANTICS 2018 P&D track. Please note that this paper is currently under review for CIKM 2018.
+This is our (unpublished) paper containing the detailed description of our short text classification method referenced in the "Knowledge-Based Short Text Categorization" PhD symposium submission to ESWC 2019. Please note that this paper is currently under review for ESWC 2019.
